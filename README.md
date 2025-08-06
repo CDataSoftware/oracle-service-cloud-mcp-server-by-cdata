@@ -1,7 +1,7 @@
 # oracle-service-cloud-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Oracle Service Cloud
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Oracle Service Cloud (beta)](https://www.cdata.com/download/download.aspx?sku=KOZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Oracle Service Cloud (beta)](https://www.cdata.com/download/download.aspx?sku=KOZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Oracle Service Cloud supported by the [CData JDBC Driver for Oracle Service Cloud](https://www.cdata.com/drivers/oracleservicecloud/jdbc).
 
